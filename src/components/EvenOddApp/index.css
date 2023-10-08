@@ -1,0 +1,38 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  height: 70vh;
+  width: 60vw;
+  margin: 40px;
+  border-radius: 10px;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #0f172a;
+  font-size: 38px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.paragraph {
+  color: #334155;
+  font-size: 12px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.increment-btn {
+  background-color: #ffffff;
+  border-radius: 10px;
+  font-size: 10px;
+  padding: 10px;
+}
+.num_bet-paragraph {
+  color: #1e293b;
+  font-size: 8px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
